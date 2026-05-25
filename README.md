@@ -1,4 +1,4 @@
-# Happy Birthday Anshika 🎉
+# Happy Birthday Zeenu Di🎉
 
 A Happy Birthday animation built with CSS3, HTML5 & jQuery.
 
